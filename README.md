@@ -8,3 +8,17 @@ the schema, analyze entity relationships, identify design anomalies, and extract
 `DB-Detective-Submission.md`: The final report containing task results, anomalies, and business facts.
 
 `DBIM.sql`: The full schema export including `CREATE TABLE` statements and constraints.
+
+##
+
+# COSC 315: Database Design
+**Author** Daniel Abbott
+**Date** Febuary 18, 2026
+
+This project invloves communicating with Grok to make an ER Diagram and a glossary based on the `Mythical Mane` 
+database. I marked all relationships, entities and attributes. I also provided a reflection on how my experience
+with Grok was.
+
+`DB-Design_Submission.md`: The final report containing all needed information for submission.
+
+`DB-Design-SS-ER.png`: A screenshot of my ER Diagram.
